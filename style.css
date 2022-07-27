@@ -1,0 +1,13 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.placeone
+{
+    border:2px solid black;
+}
+
+.placeone img{
+    width:80%; 
+}
