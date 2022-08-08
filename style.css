@@ -11,3 +11,21 @@
 .placeone img{
     width:80%; 
 }
+
+
+.moviehead {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;   
+}
+
+#movie1img {
+    width: 350px;
+    height: 400px;
+}
+
+#movie2img {
+    width: 350px;
+    height: 400px;
+}
